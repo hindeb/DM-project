@@ -7,3 +7,5 @@ Zainab Abbas 202001012
 
 This project uses Data Mining Techniques to create models and predict Social Media Influencing Users
 
+Rapid Minor Version: 10.3.001
+
